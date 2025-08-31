@@ -1,0 +1,15 @@
+{
+    "description": "Website for programming contest",
+    "domain": "is-cool.dev",
+    "subdomain": "aamir",
+
+    "owner": {
+        "repo": "https://github.com/aamirxs/sub",
+        "email": "aamirzsx@gmail.com"
+    },
+
+    "record": {
+        "A": ["43.205.240.224"]
+    },
+    "proxied": false
+}
